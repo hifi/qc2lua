@@ -1,0 +1,7 @@
+[submodule ".quakesrc"]
+	path = .quakesrc
+	url = https://github.com/id-Software/Quake.git
+	ignore = dirty
+[submodule ".quaketools"]
+	path = .quaketools
+	url = https://github.com/id-Software/Quake-Tools.git
